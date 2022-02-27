@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lillies ape whipt by Philastrogus.</title>
+            <author>Lilburne, Robert, 1613-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88273</idno>
+            <idno type="STC">Wing L2203</idno>
+            <idno type="STC">Thomason E656_9</idno>
+            <idno type="STC">ESTC R206603</idno>
+            <idno type="EEBO-CITATION">99865722</idno>
+            <idno type="PROQUEST">99865722</idno>
+            <idno type="VID">166082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166082)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lillies ape whipt by Philastrogus.</title>
+                  <author>Lilburne, Robert, 1613-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.I. C.I. G.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Philastrogus = Robert Lilburne.</note>
+                  <note>A reply to Culpeper, Nicholas.  An ephemeris for the year 1652.</note>
+                  <note>Annotation on Thomason copy: "March. 15. 1651".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culpeper, Nicholas, 1616-1654. --  Ephemeris for the year 1652.</term>
+               <term>Lilly, William, 1602-1681.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166082:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 83 -->
+            <p>LILLIES APE WHIPT</p>
+            <p>By <hi>Philaſtrogus.</hi>
+            </p>
+            <p>Printed for <hi>W.I. C.I. G.W.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166082:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 84 -->
+            <pb facs="tcp:166082:2"/>
+            <!-- PDF PAGE 84 -->
+            <head>LILLIES APE WHIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE occaſion of my writing unto you proceeds from the peruſall of your Non<g ref="char:EOLhyphen"/>ſencicall <hi>Almanacke,</hi> or <hi>Ephemeris,</hi> as you and others may ſtile it, by reaſon it is a perfect Diary of your folly; Wherein for a Frontiſpeece you preſent us with your Brazen face. The very <hi>Effigies</hi> ſpeakes you of a <hi>Saturnine</hi> or Malicious diſpoſition; ſurely you had ſome ferall ſigne Horoſcopating at birth, which makes you ſo brutiſh as not to know what belongs to humane civility, otherwiſe you would have ſpared your revileing breath (wherewith you think to blaſt the Clergy) to have cooled your pottage. However, I commend you, that will let the world underſtand by your Picture what you are, though but <hi>Emblematically;</hi> which leaſt it ſhould be ſet off with a ſhaddow (and ſo you not ſeeme really what you are) my Pencill doth thus delineate it.</p>
+            <p>Firſt here's a Sattin-Cap, that's to keep in your ſimplicity, which might not have been taken notice of, had you but ſo much wit as to have kept your fooles <hi>Speculum</hi> for your owne private Contemplation. Next (<hi>Saturn</hi> like) we have many dangling ſnakes with their heads reverſe, verifying the truth of the old Proverb, Buſh naturally more haire then wit. N<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt,
+<pb n="2" facs="tcp:166082:3"/>
+               <!-- PDF PAGE 85 -->there's face like that of <hi>Titus-Veſpaſian,</hi> a ſqueezing degla<g ref="char:EOLhyphen"/>bing Countenance, ſuch a one as Prognoſticates the ſquirt to be incident unto the purſes of ſuch Patients as come to know of you whether they ſhall live or dye. We have next the Mole-Skin exactly tipifying your diſcerning faculty for mat<g ref="char:EOLhyphen"/>ter of <hi>Aſtrology</hi> to be more blinde then the Mole; but in ſtead of this Pluſh Jacket I think a Whip, and a jack of Apes his coate were fitter for you: the one would make you more heedfull to correct your errours, the other would become you farre better, ſince (at leaſt) you are but M<hi rend="sup">r</hi>. <hi>Lillies</hi> Ape, whom you would, but cannot imitate: The Globe is next, repreſent<g ref="char:EOLhyphen"/>ing a <hi>Vertigo</hi> in your braine, that being poſſeſſed with the giddineſſe of ſelfe conceit hath ſent your wit a Wool-gather<g ref="char:EOLhyphen"/>ing, ſince which contrary to the Maxime in Phyloſophy, there may be a vacuity found in your <hi>Pericranium.</hi> And this is no wonder to me at all, ſince I perceive your <hi>Rete mirabile</hi> to be crack'd; for the net being broak, the Bird is flown, or your Braine indeed is rather over flown with ſtrange Chymera's of your owne hatching, without any exiſtence in that Art you profeſſe.</p>
+            <p>Next, that we may take notice you are a Gentleman (but ſure 'tis of the younger Houſe, who are better fed them taught) you give us a badge thereof: But not to detract any thing from the worth of that ancient Family of the <hi>Culpepers,</hi> whoſe merits tranſcend the commendation of ſo weak a Pen, &amp; ther<g ref="char:EOLhyphen"/>fore not to ſay and thing of them, leaſt I ſhould rather detract then ad to their worth; my ſpeech is to you, who knowes, or at leaſt ſhould know, that honour ſprung at firſt either from the Sword or Gowne, both which without queſtion made that family honourable. <hi>Sed ole quid hoc at te? Nam Genus &amp; Proavi &amp; quae nos non fecimus ipſt, vix ea noſtra vocentur.</hi> Howe<g ref="char:EOLhyphen"/>ver, you let us underſtand for your Armes, you have the <hi>Lyon-Paſſant,</hi> which makes you paſſe for ſuch a beaſt, that's of a ra<g ref="char:EOLhyphen"/>vening diſpoſition, which the Moone creſcent more fully by her light diſcovers unto us, ſhewing you to be ſomewhat
+<pb n="3" facs="tcp:166082:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 85 -->Lunatick, and rather the more, becauſe ſhe is towards the full. Had you been a right Gentleman (as by this Coat you intend the world ſhould take notice) you would have ſcorn'd ſo much to have vilified the Gowne; but by how much the Gown ſtands in oppoſition to your better thoughts, by ſo much you are degenerated from a Gentleman, yea from a man to a beaſt: I wonder not now, you tell us you were no Academick, if you had, I ſhould have concluded you at the higheſt Pitch, to have been but a Sopho-moore, or at leaſt one of the ruder ſort of youth, whom <hi>Ariſtotle</hi> himſelfe excludes from his Ethick Lecture; for you have wit and manners both a like, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is (leaſt you ſhould run to the Weſt<g ref="char:EOLhyphen"/>miſterian Schoole-boyes to engliſh it) in a diſtinct Pro<g ref="char:EOLhyphen"/>portion, ſo that when the <hi>Zenith</hi> &amp; <hi>Nadir</hi> may be brought to meet, we may then expect a converſion of theſe in you; in the Interim I would have you goe to ſchoole, and forme <hi>As in preſenti.</hi> But I'le now come to your Errours, which you'le ſay perhaps were wilfully commited, that we might know you are a man for <hi>humanum eſt errare;</hi> yet ſuch palpable ones ſhew you to be a bungler, rather then an Artiſt, for which you need not feare we ſhould deifie you, unleſſe t'were to place you in a fools Paradice.</p>
+            <p>The Cardinall Errour (on which many other hang) concerns the Suns ingreſſe into the Vernall Equinoxe, or rather according to <hi>Copernicus,</hi> the Earths ſaluting, the firſt point of <hi>Libra,</hi> wherein you preſent us with ſuch a face of heaven (with what face you can do it, I know not) in which the firſt of the firſt decanate of <hi>Scorpio</hi> aſcends; I verily beleeve and am ſure, the Scheam is right acccord<g ref="char:EOLhyphen"/>ing to that given time; but you like an unskilfull Muſitian have made a diſcord by not keeping true time for the Suns entrance into <hi>Aries,</hi> by this ſpoyling that harmonious conſent of the Spheares muſick: for liſten to Maſter <hi>Lilly, Booker, Wharton</hi> and <hi>Wing,</hi> and you'le heare
+<pb n="4" facs="tcp:166082:4"/>
+               <!-- PDF PAGE 86 -->all of them, ſounding an Uniſome, their ſeverall Scheams like ſo many well tun'd inſtrument<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, make up a harmony, whereas yours for want of tuning comes baſely off, and makes a jarre; and this becauſe you have ſcru'd your pegs too high; for whereas they differ ſome few ſcruples (and that's no ſcruple in point of Art) from each other for time, you are ſo ſingular, that you have marr'd all in diſſenting from them al by no leſſe then an houre &amp; four<g ref="char:EOLhyphen"/>teen minutes: I ſee now you are <hi>omnium horarum home,</hi> and yet I much wonder (ſince you can temporize ſo well) that you ſhould be no better a time obſerver. I will not tell you, the eighth day of <hi>March</hi> is put down for the ninth in the ſquare, that may happen through the Printers miſtake, ſure I am the other eight houres fifty eight mi<g ref="char:EOLhyphen"/>nutes <hi>P.M.</hi> cannot (by reaſon of your poſition of the Heavens for that moment) except for want of true Cal<g ref="char:EOLhyphen"/>culation, and ſo to paſſe by your two figures (as truely erected as this) for the Suns entrance into both the Tro<g ref="char:EOLhyphen"/>picks, theſe (I ſay) ſhall be turn'd over in ſilence becauſe I would liſten to your Judgements.</p>
+            <p>
+               <hi>Page</hi> 24. Your judgement (you pretend) to be ballanced by the prudent advice (come falſely) of your Brother Reaſon. That you two ſhould be Kin I ſee little reaſon for it; you are not I ſuppoſe unacquainted with Doctor <hi>Simpleton,</hi> whoſe Plumbioſity out-ballanceth all the rea<g ref="char:EOLhyphen"/>ſon you have. <hi>Sed perdere quos vult Jupiter dementat.</hi> I know now who hath made you ſo mad a Prognoſticator, and that is <hi>Jupiter</hi> in detriment; but you know your Reputa<g ref="char:EOLhyphen"/>tion can recieve no great detriment by it though you ſhould Pay for your Pleaſure with a Pox to you; elſe what means that bald Pate of yours, if t'were but unpe<g ref="char:EOLhyphen"/>riwig'd. <hi>Page</hi> 25. Your Authours you'le throw aſide, (by what Authority I know not) onely you take your <hi>ipſe dixit</hi> to be a ſufficient warrant to command our credence, notwithſtanding which wee'le beleeve you when we liſt.
+<pb n="5" facs="tcp:166082:4"/>
+               <!-- PDF PAGE 86 -->I ſee you are a <hi>Rebell</hi> to all Authority, and would aſſume a dominion in judgeing unto your ſelf; but before you be judge in your Art, I would have you firſt proceed Ma<g ref="char:EOLhyphen"/>ſter of Art, onely this; I'me afraid) is a degree beyond your Capacity, though I am confident you already take your ſelfe to be a man of degree.</p>
+            <p>Page 28. <hi>O Heavens! What have Men no more Wit yet, then to run after a company of prating Priests and Lawyers.</hi> What I pray have you to doe with Heaven? I'me afraid Heaven hath but little to doe with you, ſince you have ſo much to doe with Hell, from whence you fetch your opprobrious and calumniating termes; for your Maſter (who ſets you on worke, and will one day truely pay you your hire) was a Detractor from the beginning. But you are a Saint forſooth for quoting a deale of Scripture; and ſo is the Devill, for he did as much for his owne advantage. <hi>Have Men no more Wit?</hi> Verily, had they no more then you, they'd have but a little; for what you had is here vented at once, and now your Hogſ-head's empty, we may expect it ſhould ſound, though there be nothing in it. Your vilification (as you thinke) in terming the Miniſters PRIESTS, is more honourable then you are aware, and therefore they are better com<g ref="char:EOLhyphen"/>pany then for your ſelfe. But why <hi>prating Priests?</hi> I ſee you will diſcover your ſelfe to be of the <hi>Athenian Sect,</hi> which counted PAUL but a babler. But take heed I adviſe you, leaſt what you eſteeme prating, prove at the laſt more then an empty ſound againſt you: if the WORD of GOD be of no better repute with you then Winde, it ſhall prove ſuch a Winde as ſhall ſcat<g ref="char:EOLhyphen"/>ter ſuch Duſt as you are from before the face of the Al<g ref="char:EOLhyphen"/>mighty.</p>
+            <p>There are more things wherein by ſome able <hi>Aſtrono<g ref="char:EOLhyphen"/>mer</hi> you ſtand in need to be Catechiz'd. Me thinkes you ſhould have been better infighted in the ſpeculative part
+<pb n="6" facs="tcp:166082:5"/>
+               <!-- PDF PAGE 87 -->of your Science, e're you adventured on the Practick, eſpe<g ref="char:EOLhyphen"/>cially ſince you intended to make it known to the world how little you know; for would an <hi>Artiſt</hi> commit ſuch abſurdities as may be found in you. To inſtance, where<g ref="char:EOLhyphen"/>as in <hi>January,</hi> all former Writers begin with the letter A, and end with it in <hi>December</hi> at the end of the yeare; con<g ref="char:EOLhyphen"/>trary to all <hi>Preſidents,</hi> out of a Pragmatick humour you begin with G, overthrowing by this all Auncient <hi>Me<g ref="char:EOLhyphen"/>thod;</hi> but what talke I of this which is a ſlender one to what follows, and that's your putting downe in this Moneth C. for the Dominicall letter in ſtead of D. I ſup<g ref="char:EOLhyphen"/>poſe you conſidered it was Leap-yeare, and that made you skip o're the right. If you had not told us afore<g ref="char:EOLhyphen"/>hand, we might eaſily diſcern that you had throwne your Authours aſide: for had you in compoſing your <hi>Almanack</hi> peruſed Maſter <hi>Wings Practicall Aſtronomy,</hi> you could not have ſo groſſely miſtooke and took <hi>C.</hi> for <hi>D.</hi> If you are married, I would have your wife acquaint you more with the horne-booke, for I ſee you muſt to your <hi>A.B.C.</hi> You tell us of a great Eclips of the Sun (which every novice can doe) but I could tell you of what's grea<g ref="char:EOLhyphen"/>ter then that (though leſſe in it ſelfe) and that's the ſmalneſſe of the Suns Eccentricity, it being the leaſt that hath been many hundred of years; but this is eccentricall to your apprehenſion, and ſo not taken notice of.</p>
+            <p>Had I roome, I would have gone on and read you over, I'le but conclude as your ſelfe began in the Epiſtle, that here's too much already, unleſſe it were better: and ſo Sir, the reaſon of my Scurrility proceeds from the defect of civility in you, not any diſaffection to your Noble Art, for I am</p>
+            <closer>
+               <signed>Philaſtrogus.</signed>
+               <dateline>Cambridge, <date>Feb. 2. 1651/2</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:166082:5"/>
+            <!-- PDF PAGE 87 -->
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <p>run theſe courſes in contemplation of <hi>Ticho-Brac</hi> the ancient German Aſtronomer, or of the French famous <hi>Noſtradamus;</hi> farre leſſe of an old prattling Mother <hi>Shipton;</hi> but becauſe their influences are perpetually ſet on the perpetrating of wickedneſſe; being incapa<g ref="char:EOLhyphen"/>ble of any change at all, whereby their far differ from the conſtitution of the Celeſtial Orbs; which are by ſome ſpeculatiſts ſaid, to encline mens mindes to ſuch and ſuch actions, though not to neceſſitate them thereunto.</p>
+            <p>So likewiſe it is worthy of our obſervation, how ar<g ref="char:EOLhyphen"/>tificially the ſpirit of deluſion doth wage his warre, when as by his ballacing of the ſcails he makes them, ſometimes to riſe and other times to fall; ſometimes by choller, and at other times by hopes and promiſes: All which he ſo dexterouſly mannages, and carryes on, as that at length, he reduceth them to believe, that it is <hi>un faire le faut,</hi> a thing which muſt be done; <hi>viz</hi> The patching up of a peace between parties, <hi>France</hi> and <hi>Spain,</hi> who to keep their Legions in action, muſt be neceſſitated to diſplay their Banners againſt the Tribes of Iſrael; who as it ſeems are their main oppo<g ref="char:EOLhyphen"/>ſites; when as alas! thoſe ſaid Tribes have but too many oppoſites amongſt themſelves. And the which was by wofull experience) found to be too true. For that when as that Tribe ſeemed to be even at the height of its flood, and proſperity; as then, their old Duke of <hi>Bouillon</hi> together with twenty five more of the chiefeſt pillars, fell off from them at a clap; and as then they cryed, <hi>Helpe Lord, for that honeſt men doe periſh and de<g ref="char:EOLhyphen"/>cay, &amp;c.</hi>
+            </p>
+            <p>Now to the end, that the Devil may be fooled in<g ref="char:EOLhyphen"/>deed,
+<pb n="8" facs="tcp:166082:6"/>
+               <!-- PDF PAGE 88 -->that the Pope may be put by his wiles (not only by a ſtraight way towards him by France, or by Sivi<g ref="char:EOLhyphen"/>tauecha, but by a ſpirit of Peace) and that the Malig<g ref="char:EOLhyphen"/>nant firebrands may be run off from their byaſſes and guards:</p>
+            <p>May ſuch reſolves, be taken as are moſt anſwerable to Chriſtian pieity and wiſdom; for to ſtudy and fix on poſſibilities; and in the firſt place, to wave Impoſsibili<g ref="char:EOLhyphen"/>ties, on the regard of an <hi>Abel</hi>-like blood, which was ſpilt by murtherers hands, and ſo to ſhew our ſelves as piouſly wiſe as the Devill is wickedly crafty: For that thereby the ſpirits of deluſion will be intrapt, and ſufficiently fooled, the Papal ſtratagems will be over<g ref="char:EOLhyphen"/>thrown, and the Malignant crew will be bang'd home to the purpoſe; notwithſtanding their groundleſſe to the purpoſe; notwithſtanding their groundleſſe fulminations againſt that King of <hi>Spain,</hi> and thoſe Nobles whom they pretend to hold (by their ſaid <hi>San<g ref="char:EOLhyphen"/>cta Inquiſition</hi>) fetered in chains, and linked in Irons, which muſt needs moſt ridiculouſly retort upon them<g ref="char:EOLhyphen"/>ſelves; for that their pretended Sanctuary was not intended for ſuch as they call Hereticks who neither acknowledge them, nor their Sanctuaries rights; nor doe they themſelves deem thoſe, (whom they account off as Hereticks) to be worthy of being admitted into their Purgatory.</p>
+            <p>Secondly, may the wiſdom of this Common-wealth pitch upon ſuch Chriſtian-like reſolutions, as might be anſwerable to the Divine Wiſdomes dictates, and to wave all manner of Impoſſibilities, in regard of our neighbours the <hi>Hollanders;</hi> whereby the ſpirits of De<g ref="char:EOLhyphen"/>luſion will be confounded, and made fools off in<g ref="char:EOLhyphen"/>deed; ſo likewiſe would the Papal Stratagems on that ſcoare be brought to nought; and ſuch firebrands
+<pb n="9" facs="tcp:166082:6"/>
+               <!-- PDF PAGE 88 -->will be confounded as may have entertained the like thoughts; which ſundry men have foſtered of the great pretended advantages, which will redound unto the Navie by the Act of Prohibition, concerning Im<g ref="char:EOLhyphen"/>portation, when as ſundry well experimented per<g ref="char:EOLhyphen"/>ſons, in the traffick and navigation alledge ſtore of arguments to the contrary, which are backt and con<g ref="char:EOLhyphen"/>firmed by ſuch perſons as have all their life time ſtu<g ref="char:EOLhyphen"/>died and diſcuſt the advantages proper to their coun<g ref="char:EOLhyphen"/>trey men, who have obſerved amongſt ſtrangers thoſe things which are grounded on truth, and on moſt in<g ref="char:EOLhyphen"/>fallible Principles, an infinite number of them con<g ref="char:EOLhyphen"/>cluding in one and the ſelf ſame axiome, conſonant unto the arguments comprehended in the ſixteenth and ſeventeenth pages of the ſecond part of a Sea<g ref="char:EOLhyphen"/>cabin Dialogue, of late preſented to the publick View.</p>
+            <p>Finally may the wiſdom of this Common-wealth take ſuch pious and chriſtianlike reſolves in the be<g ref="char:EOLhyphen"/>half and favour of one of the tribes of Iſrael, beyond the Engliſh Jordan, as that thereby the Kingdome of Chriſt may be advanced, and manifeſted to all the Nations of the Earth, that ſo all true Iſraelites (in whom there is no guile) as well here as there, may at length attain unto the bleſſed condition of being all one in ſincerity; whereby doubtleſſe both the De<g ref="char:EOLhyphen"/>vill, the Pope and the Malignant crew will be out witted, confounded, and made arch fools of to ſome purpoſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
